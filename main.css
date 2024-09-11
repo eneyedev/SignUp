@@ -148,6 +148,10 @@ body {
 }
 
 @media screen and (min-width: 1300px) {
+  body {
+    background: url("img/bg-intro-desktop.png") var(--Red) no-repeat center;
+  }
+
   .wrapper {
     display: flex;
     align-items: center;
